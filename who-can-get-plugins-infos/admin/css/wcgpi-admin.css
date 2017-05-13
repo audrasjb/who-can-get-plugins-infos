@@ -1,0 +1,17 @@
+/**
+ * Admin CSS rules
+ */
+#mce-wp-wcgpi-plugin i:before {
+	content: "\f106";
+	display: inline-block;
+	-webkit-font-smoothing: antialiased;
+	font: normal 20px/1 'dashicons';
+	vertical-align: top;
+}
+#mce-wp-wcgpi-theme i:before {
+	content: "\f100";
+	display: inline-block;
+	-webkit-font-smoothing: antialiased;
+	font: normal 20px/1 'dashicons';
+	vertical-align: top;
+}
